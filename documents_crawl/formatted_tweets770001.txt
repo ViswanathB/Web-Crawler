@@ -1,0 +1,75 @@
+Tweet ID                                     :702753827166904321
+geo                                     :       None
+favorited                               :       False
+coordinates                             :       None
+filter_level                            :       low
+		*************TEXT*************
+RT @kittygonewilde: Voting for @HillaryClinton because you believe in equal rights is like buying a fur coat because you're a vegan. Recons…
+
+in_reply_to_user_id_str                 :       None
+source                                  :       <a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
+in_reply_to_status_id                   :       None
+in_reply_to_user_id                     :       None
+favorite_count                          :       0
+retweet_count                           :       0
+retweeted_status                        :       {'geo': None, 'favorited': False, 'coordinates': None, 'filter_level': 'low', 'text': "Voting for @HillaryClinton because you believe in equal rights is like buying a fur coat because you're a vegan. Reconsider.", 'in_reply_to_user_id_str': None, 'source': '<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>', 'in_reply_to_status_id': None, 'in_reply_to_user_id': None, 'favorite_count': 20, 'id': 697926701288984576, 'retweet_count': 9, 'user': {'protected': False, 'statuses_count': 7747, 'screen_name': 'kittygonewilde', 'followers_count': 351, 'profile_text_color': '333333', 'following': None, 'profile_background_color': 'C0DEED', 'friends_count': 627, 'notifications': None, 'follow_request_sent': None, 'is_translator': False, 'description': 'telling the truth is revolutionary #blacklivesmatter #feelthebern #ABOLISHTHEDEATHPENALTY', 'location': 'probably somewhere outside ', 'listed_count': 36, 'default_profile_image': False, 'url': None, 'profile_background_image_url_https': 'https://abs.twimg.com/images/themes/theme1/bg.png', 'profile_image_url_https': 'https://pbs.twimg.com/profile_images/684271188458246144/3mUz-Knl_normal.jpg', 'profile_image_url': 'http://pbs.twimg.com/profile_images/684271188458246144/3mUz-Knl_normal.jpg', 'id': 1357675838, 'time_zone': 'Atlantic Time (Canada)', 'profile_sidebar_border_color': 'C0DEED', 'profile_use_background_image': True, 'name': 'call me cat', 'default_profile': True, 'profile_link_color': '0084B4', 'id_str': '1357675838', 'verified': False, 'profile_background_image_url': 'http://abs.twimg.com/images/themes/theme1/bg.png', 'profile_sidebar_fill_color': 'DDEEF6', 'favourites_count': 2305, 'profile_background_tile': False, 'geo_enabled': False, 'created_at': 'Tue Apr 16 19:17:52 +0000 2013', 'profile_banner_url': 'https://pbs.twimg.com/profile_banners/1357675838/1454657026', 'contributors_enabled': False, 'utc_offset': -14400, 'lang': 'en'}, 'in_reply_to_status_id_str': None, 'id_str': '697926701288984576', 'in_reply_to_screen_name': None, 'entities': {'urls': [], 'symbols': [], 'hashtags': [], 'user_mentions': [{'id_str': '1339835893', 'screen_name': 'HillaryClinton', 'id': 1339835893, 'indices': [11, 26], 'name': 'Hillary Clinton'}]}, 'retweeted': False, 'created_at': 'Thu Feb 11 23:34:27 +0000 2016', 'contributors': None, 'is_quote_status': False, 'place': None, 'truncated': False, 'lang': 'en'}
+
+ *******************USER INFORMATION*******************
+		protected                                   :    False
+		statuses_count                              :    7818
+		screen_name                                 :    Skyneye
+		followers_count                             :    635
+		profile_text_color                          :    333333
+		following                                   :    None
+		profile_background_color                    :    C0DEED
+		friends_count                               :    873
+		notifications                               :    None
+		follow_request_sent                         :    None
+		is_translator                               :    False
+		description                                 :    **********None**********
+		location                                    :    Hermosa Beach, CA
+		listed_count                                :    64
+		default_profile_image                       :    False
+		url                                         :    None
+		profile_background_image_url_https          :    https://pbs.twimg.com/profile_background_images/745911469/3dc2e073cf22a85a23eeee59ec102344.jpeg
+		profile_image_url_https                     :    https://pbs.twimg.com/profile_images/616682537054785536/xDaGtCcW_normal.jpg
+		profile_image_url                           :    http://pbs.twimg.com/profile_images/616682537054785536/xDaGtCcW_normal.jpg
+		id                                          :    1029487608
+		time_zone                                   :    Pacific Time (US & Canada)
+		profile_sidebar_border_color                :    FFFFFF
+		profile_use_background_image                :    True
+		name                                        :    Independent
+		default_profile                             :    False
+		profile_link_color                          :    0084B4
+		id_str                                      :    1029487608
+		verified                                    :    False
+		profile_background_image_url                :    http://pbs.twimg.com/profile_background_images/745911469/3dc2e073cf22a85a23eeee59ec102344.jpeg
+		profile_sidebar_fill_color                  :    DDEEF6
+		favourites_count                            :    10124
+		profile_background_tile                     :    False
+		geo_enabled                                 :    True
+		created_at                                  :    Sat Dec 22 23:55:04 +0000 2012
+		profile_banner_url                          :    https://pbs.twimg.com/profile_banners/1029487608/1439576948
+		contributors_enabled                        :    False
+		utc_offset                                  :    -28800
+		lang                                        :    en
+
+in_reply_to_status_id_str               :       None
+in_reply_to_screen_name                 :       None
+
+
+*******************ENTITIES INFORMATION*******************
+		urls                    :    []
+		symbols                 :    []
+		hashtags                :    []
+		user_mentions           :    [{'id_str': '1357675838', 'screen_name': 'kittygonewilde', 'id': 1357675838, 'indices': [3, 18], 'name': 'call me cat'}, {'id_str': '1339835893', 'screen_name': 'HillaryClinton', 'id': 1339835893, 'indices': [31, 46], 'name': 'Hillary Clinton'}]
+
+retweeted                               :       False
+created_at                              :       Thu Feb 25 07:15:43 +0000 2016
+timestamp_ms                            :       1456384543588
+contributors                            :       None
+is_quote_status                         :       False
+place                                   :       None
+truncated                               :       False
+lang                                    :       ENGLISH
+

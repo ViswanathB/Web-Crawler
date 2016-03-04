@@ -1,0 +1,78 @@
+Tweet ID                                     :702753828051902464
+geo                                     :       None
+favorited                               :       False
+coordinates                             :       None
+filter_level                            :       low
+		*************TEXT*************
+RT @DianaBonete: We're on our 3rd of 6 precinct team trainings this week! This is how we win. #COgroundgame #ImWithHer  https://t.co/rcUKcs…
+
+in_reply_to_user_id_str                 :       None
+source                                  :       <a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+in_reply_to_status_id                   :       None
+in_reply_to_user_id                     :       None
+favorite_count                          :       0
+retweet_count                           :       0
+retweeted_status                        :       {'geo': None, 'favorited': False, 'coordinates': None, 'entities': {'urls': [{'url': 'https://t.co/rcUKcsuRnQ', 'display_url': 'twitter.com/ashleyburns316…', 'expanded_url': 'https://twitter.com/ashleyburns316/status/702683339069612032', 'indices': [103, 126]}], 'symbols': [], 'hashtags': [{'text': 'COgroundgame', 'indices': [77, 90]}, {'text': 'ImWithHer', 'indices': [91, 101]}], 'user_mentions': []}, 'filter_level': 'low', 'text': "We're on our 3rd of 6 precinct team trainings this week! This is how we win. #COgroundgame #ImWithHer  https://t.co/rcUKcsuRnQ", 'in_reply_to_user_id_str': None, 'quoted_status_id_str': '702683339069612032', 'id': 702685032981225472, 'in_reply_to_user_id': None, 'favorite_count': 22, 'quoted_status_id': 702683339069612032, 'quoted_status': {'geo': None, 'favorited': False, 'extended_entities': {'media': [{'display_url': 'pic.twitter.com/NXIslZF5kK', 'media_url': 'http://pbs.twimg.com/media/CcBuxPFUcAEQXKd.jpg', 'id': 702683334011285505, 'sizes': {'small': {'resize': 'fit', 'w': 680, 'h': 192}, 'large': {'resize': 'fit', 'w': 1024, 'h': 289}, 'thumb': {'resize': 'crop', 'w': 150, 'h': 150}, 'medium': {'resize': 'fit', 'w': 1024, 'h': 289}}, 'indices': [116, 139], 'url': 'https://t.co/NXIslZF5kK', 'expanded_url': 'http://twitter.com/ashleyburns316/status/702683339069612032/photo/1', 'media_url_https': 'https://pbs.twimg.com/media/CcBuxPFUcAEQXKd.jpg', 'type': 'photo', 'id_str': '702683334011285505'}]}, 'coordinates': None, 'filter_level': 'low', 'text': 'With just 6 days until the #COCaucus, Denver is #ready to win this thing for @HillaryClinton on March 1! #ImWithHer https://t.co/NXIslZF5kK', 'in_reply_to_user_id_str': None, 'source': '<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>', 'in_reply_to_status_id': None, 'in_reply_to_user_id': None, 'favorite_count': 0, 'id': 702683339069612032, 'retweet_count': 0, 'user': {'protected': False, 'statuses_count': 1580, 'screen_name': 'ashleyburns316', 'followers_count': 852, 'profile_text_color': 'C34242', 'following': None, 'profile_background_color': '07090B', 'friends_count': 805, 'notifications': None, 'follow_request_sent': None, 'is_translator': False, 'description': 'Organizer with @HillaryforCO • Formerly @HillaryforIA • IA native • @Creighton grad • Travel enthusiast • Working every day for a better tomorrow', 'location': 'Denver, CO', 'listed_count': 31, 'default_profile_image': False, 'url': 'http://hillaryclinton.com/iowa', 'profile_background_image_url_https': 'https://pbs.twimg.com/profile_background_images/717990175/d9d4635350132f6cbb9786643eeaca57.png', 'profile_image_url_https': 'https://pbs.twimg.com/profile_images/607279600226332672/xwWdwdMA_normal.jpg', 'profile_image_url': 'http://pbs.twimg.com/profile_images/607279600226332672/xwWdwdMA_normal.jpg', 'id': 330130333, 'time_zone': 'Central Time (US & Canada)', 'profile_sidebar_border_color': 'BFBFBF', 'profile_use_background_image': True, 'name': 'Ashley Burns', 'default_profile': False, 'profile_link_color': '19CF86', 'id_str': '330130333', 'verified': False, 'profile_background_image_url': 'http://pbs.twimg.com/profile_background_images/717990175/d9d4635350132f6cbb9786643eeaca57.png', 'profile_sidebar_fill_color': 'C9C9C9', 'favourites_count': 1033, 'profile_background_tile': True, 'geo_enabled': True, 'created_at': 'Wed Jul 06 04:27:02 +0000 2011', 'profile_banner_url': 'https://pbs.twimg.com/profile_banners/330130333/1453874204', 'contributors_enabled': False, 'utc_offset': -21600, 'lang': 'en'}, 'in_reply_to_status_id_str': None, 'id_str': '702683339069612032', 'in_reply_to_screen_name': None, 'possibly_sensitive': False, 'entities': {'urls': [], 'symbols': [], 'hashtags': [{'text': 'COCaucus', 'indices': [27, 36]}, {'text': 'ready', 'indices': [48, 54]}, {'text': 'ImWithHer', 'indices': [105, 115]}], 'media': [{'display_url': 'pic.twitter.com/NXIslZF5kK', 'media_url': 'http://pbs.twimg.com/media/CcBuxPFUcAEQXKd.jpg', 'id': 702683334011285505, 'sizes': {'small': {'resize': 'fit', 'w': 680, 'h': 192}, 'large': {'resize': 'fit', 'w': 1024, 'h': 289}, 'thumb': {'resize': 'crop', 'w': 150, 'h': 150}, 'medium': {'resize': 'fit', 'w': 1024, 'h': 289}}, 'indices': [116, 139], 'url': 'https://t.co/NXIslZF5kK', 'expanded_url': 'http://twitter.com/ashleyburns316/status/702683339069612032/photo/1', 'media_url_https': 'https://pbs.twimg.com/media/CcBuxPFUcAEQXKd.jpg', 'type': 'photo', 'id_str': '702683334011285505'}], 'user_mentions': [{'id_str': '1339835893', 'screen_name': 'HillaryClinton', 'id': 1339835893, 'indices': [77, 92], 'name': 'Hillary Clinton'}]}, 'retweeted': False, 'created_at': 'Thu Feb 25 02:35:37 +0000 2016', 'contributors': None, 'is_quote_status': False, 'place': None, 'truncated': False, 'lang': 'en'}, 'in_reply_to_status_id': None, 'user': {'protected': False, 'statuses_count': 3767, 'screen_name': 'DianaBonete', 'followers_count': 1607, 'profile_text_color': '292C42', 'following': None, 'profile_background_color': '2E212E', 'friends_count': 776, 'notifications': None, 'follow_request_sent': None, 'is_translator': False, 'description': 'Regional Organizing Director @HillaryforCO • Formerly @HillaryForIA @EnrollAmerica @BarackObama|Love God, love people| Grace & Love | RT≠Endorsement', 'location': 'SC, FL, IL, IA → CO', 'listed_count': 43, 'default_profile_image': False, 'url': None, 'profile_background_image_url_https': 'https://pbs.twimg.com/profile_background_images/801122896/eb776a038d746a8b2b84fb4a9860fba8.jpeg', 'profile_image_url_https': 'https://pbs.twimg.com/profile_images/700557847814246400/lO3P9GVp_normal.jpg', 'profile_image_url': 'http://pbs.twimg.com/profile_images/700557847814246400/lO3P9GVp_normal.jpg', 'id': 55749675, 'time_zone': 'Central Time (US & Canada)', 'profile_sidebar_border_color': 'FFFFFF', 'profile_use_background_image': True, 'name': 'Diana Bonete', 'default_profile': False, 'profile_link_color': 'DD2E44', 'id_str': '55749675', 'verified': False, 'profile_background_image_url': 'http://pbs.twimg.com/profile_background_images/801122896/eb776a038d746a8b2b84fb4a9860fba8.jpeg', 'profile_sidebar_fill_color': 'EDCCD9', 'favourites_count': 1134, 'profile_background_tile': False, 'geo_enabled': True, 'created_at': 'Sat Jul 11 03:45:47 +0000 2009', 'profile_banner_url': 'https://pbs.twimg.com/profile_banners/55749675/1455161082', 'contributors_enabled': False, 'utc_offset': -21600, 'lang': 'en'}, 'in_reply_to_status_id_str': None, 'id_str': '702685032981225472', 'in_reply_to_screen_name': None, 'possibly_sensitive': False, 'retweet_count': 12, 'source': '<a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>', 'retweeted': False, 'created_at': 'Thu Feb 25 02:42:21 +0000 2016', 'contributors': None, 'is_quote_status': True, 'place': {'country': 'United States', 'id': 'b49b3053b5c25bf5', 'full_name': 'Denver, CO', 'country_code': 'US', 'name': 'Denver', 'url': 'https://api.twitter.com/1.1/geo/id/b49b3053b5c25bf5.json', 'bounding_box': {'coordinates': [[[-105.109815, 39.614151], [-105.109815, 39.812975], [-104.734372, 39.812975], [-104.734372, 39.614151]]], 'type': 'Polygon'}, 'attributes': {}, 'place_type': 'city'}, 'truncated': False, 'lang': 'en'}
+
+ *******************USER INFORMATION*******************
+		protected                                   :    False
+		statuses_count                              :    5002
+		screen_name                                 :    228Years
+		followers_count                             :    1941
+		profile_text_color                          :    000000
+		following                                   :    None
+		profile_background_color                    :    000000
+		friends_count                               :    1462
+		notifications                               :    None
+		follow_request_sent                         :    None
+		is_translator                               :    False
+		description                                 :    **********Proud Arkansan supporting Hillary  
+8 Nov 2016 The Last Crack  
+#ImWithHer #Hillary4US**********
+		location                                    :    United States
+		listed_count                                :    47
+		default_profile_image                       :    False
+		url                                         :    https://www.facebook.com/crackingceilings2/
+		profile_background_image_url_https          :    https://pbs.twimg.com/profile_background_images/694296221276467200/zMtofAaK.jpg
+		profile_image_url_https                     :    https://pbs.twimg.com/profile_images/702242968531435520/xist8AtX_normal.jpg
+		profile_image_url                           :    http://pbs.twimg.com/profile_images/702242968531435520/xist8AtX_normal.jpg
+		id                                          :    3273997009
+		time_zone                                   :    Pacific Time (US & Canada)
+		profile_sidebar_border_color                :    000000
+		profile_use_background_image                :    True
+		name                                        :    Cracking Ceilings
+		default_profile                             :    False
+		profile_link_color                          :    E81C4F
+		id_str                                      :    3273997009
+		verified                                    :    False
+		profile_background_image_url                :    http://pbs.twimg.com/profile_background_images/694296221276467200/zMtofAaK.jpg
+		profile_sidebar_fill_color                  :    000000
+		favourites_count                            :    913
+		profile_background_tile                     :    False
+		geo_enabled                                 :    False
+		created_at                                  :    Fri Jul 10 07:23:45 +0000 2015
+		profile_banner_url                          :    https://pbs.twimg.com/profile_banners/3273997009/1456308852
+		contributors_enabled                        :    False
+		utc_offset                                  :    -28800
+		lang                                        :    en
+
+in_reply_to_status_id_str               :       None
+in_reply_to_screen_name                 :       None
+possibly_sensitive                      :       False
+
+
+*******************ENTITIES INFORMATION*******************
+		urls                    :    [{'url': 'https://t.co/rcUKcsuRnQ', 'display_url': 'twitter.com/ashleyburns316…', 'expanded_url': 'https://twitter.com/ashleyburns316/status/702683339069612032', 'indices': [120, 140]}]
+		symbols                 :    []
+		hashtags                :    [{'text': 'COgroundgame', 'indices': [94, 107]}, {'text': 'ImWithHer', 'indices': [108, 118]}]
+		user_mentions           :    [{'id_str': '55749675', 'screen_name': 'DianaBonete', 'id': 55749675, 'indices': [3, 15], 'name': 'Diana Bonete'}]
+
+retweeted                               :       False
+created_at                              :       Thu Feb 25 07:15:43 +0000 2016
+timestamp_ms                            :       1456384543799
+contributors                            :       None
+is_quote_status                         :       True
+place                                   :       None
+truncated                               :       False
+lang                                    :       ENGLISH
+

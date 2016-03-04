@@ -1,0 +1,75 @@
+Tweet ID                                     :702753827250970624
+geo                                     :       None
+favorited                               :       False
+coordinates                             :       None
+filter_level                            :       low
+		*************TEXT*************
+@realdonaldtrump @melaniatrump @morning_joe @morningmika @msnbc #dumptrump dont talk about his upcoming fraud trial https://t.co/HPKRmoaFmw
+
+in_reply_to_user_id_str                 :       25073877
+source                                  :       <a href="https://mobile.twitter.com" rel="nofollow">Mobile Web (M2)</a>
+in_reply_to_status_id                   :       702311041762332672
+in_reply_to_user_id                     :       25073877
+favorite_count                          :       0
+retweet_count                           :       0
+
+ *******************USER INFORMATION*******************
+		protected                                   :    False
+		statuses_count                              :    3416
+		screen_name                                 :    rosscjr
+		followers_count                             :    224
+		profile_text_color                          :    333333
+		following                                   :    None
+		profile_background_color                    :    131516
+		friends_count                               :    482
+		notifications                               :    None
+		follow_request_sent                         :    None
+		is_translator                               :    False
+		description                                 :    **********i'm Sicilian. dont be jealous**********
+		location                                    :    Norristown,Pennsylvania
+		listed_count                                :    20
+		default_profile_image                       :    False
+		url                                         :    None
+		profile_background_image_url_https          :    https://abs.twimg.com/images/themes/theme14/bg.gif
+		profile_image_url_https                     :    https://pbs.twimg.com/profile_images/585905146015588352/7g0SMzfe_normal.jpg
+		profile_image_url                           :    http://pbs.twimg.com/profile_images/585905146015588352/7g0SMzfe_normal.jpg
+		id                                          :    1933222459
+		time_zone                                   :    Eastern Time (US & Canada)
+		profile_sidebar_border_color                :    EEEEEE
+		profile_use_background_image                :    True
+		name                                        :    Rosario Cracchiolo
+		default_profile                             :    False
+		profile_link_color                          :    050505
+		id_str                                      :    1933222459
+		verified                                    :    False
+		profile_background_image_url                :    http://abs.twimg.com/images/themes/theme14/bg.gif
+		profile_sidebar_fill_color                  :    EFEFEF
+		favourites_count                            :    265
+		profile_background_tile                     :    True
+		geo_enabled                                 :    False
+		created_at                                  :    Fri Oct 04 05:44:47 +0000 2013
+		profile_banner_url                          :    https://pbs.twimg.com/profile_banners/1933222459/1401523810
+		contributors_enabled                        :    False
+		utc_offset                                  :    -18000
+		lang                                        :    en
+
+in_reply_to_status_id_str               :       702311041762332672
+in_reply_to_screen_name                 :       realDonaldTrump
+possibly_sensitive                      :       True
+
+
+*******************ENTITIES INFORMATION*******************
+		urls                    :    [{'url': 'https://t.co/HPKRmoaFmw', 'display_url': 'yahoo.com/politics/with-…', 'expanded_url': 'https://www.yahoo.com/politics/with-gop-nomination-looming-trump-slated-to-take-191550876.html', 'indices': [116, 139]}]
+		symbols                 :    []
+		hashtags                :    [{'text': 'dumptrump', 'indices': [64, 74]}]
+		user_mentions           :    [{'id_str': '25073877', 'screen_name': 'realDonaldTrump', 'id': 25073877, 'indices': [0, 16], 'name': 'Donald J. Trump'}, {'id_str': '108471631', 'screen_name': 'MELANIATRUMP', 'id': 108471631, 'indices': [17, 30], 'name': 'MELANIA TRUMP'}, {'id_str': '254117355', 'screen_name': 'Morning_Joe', 'id': 254117355, 'indices': [31, 43], 'name': 'Morning Joe'}, {'id_str': '18227519', 'screen_name': 'morningmika', 'id': 18227519, 'indices': [44, 56], 'name': 'Mika Brzezinski'}, {'id_str': '2836421', 'screen_name': 'MSNBC', 'id': 2836421, 'indices': [57, 63], 'name': 'MSNBC'}]
+
+retweeted                               :       False
+created_at                              :       Thu Feb 25 07:15:43 +0000 2016
+timestamp_ms                            :       1456384543608
+contributors                            :       None
+is_quote_status                         :       False
+place                                   :       None
+truncated                               :       False
+lang                                    :       ENGLISH
+

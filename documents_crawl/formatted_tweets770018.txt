@@ -1,0 +1,81 @@
+Tweet ID                                     :702753837644316672
+geo                                     :       None
+favorited                               :       False
+extended_entities                       :       {'media': [{'id': 702753482965651456, 'indices': [139, 140], 'source_status_id': 702753483565506560, 'source_user_id_str': '1964112182', 'sizes': {'small': {'resize': 'fit', 'w': 506, 'h': 269}, 'thumb': {'resize': 'crop', 'w': 150, 'h': 150}, 'large': {'resize': 'fit', 'w': 506, 'h': 269}, 'medium': {'resize': 'fit', 'w': 506, 'h': 269}}, 'source_user_id': 1964112182, 'id_str': '702753482965651456', 'media_url': 'http://pbs.twimg.com/media/CcCukcTWEAARrUt.png', 'source_status_id_str': '702753483565506560', 'expanded_url': 'http://twitter.com/aubrynathome/status/702753483565506560/photo/1', 'display_url': 'pic.twitter.com/BNBuwT4Ftd', 'url': 'https://t.co/BNBuwT4Ftd', 'media_url_https': 'https://pbs.twimg.com/media/CcCukcTWEAARrUt.png', 'type': 'photo'}]}
+coordinates                             :       None
+filter_level                            :       low
+		*************TEXT*************
+RT @aubrynathome: 21 Questions for #Trump
+https://t.co/yfZU09HU3Z
+#SECPrimary #tcot #ccot #tlot
+Why isn't #FoxNews asking questions? https:…
+
+in_reply_to_user_id_str                 :       None
+source                                  :       <a href="http://bluebaron.net/" rel="nofollow">jCarApp</a>
+in_reply_to_status_id                   :       None
+in_reply_to_user_id                     :       None
+favorite_count                          :       0
+retweet_count                           :       0
+retweeted_status                        :       {'geo': None, 'favorited': False, 'extended_entities': {'media': [{'display_url': 'pic.twitter.com/BNBuwT4Ftd', 'media_url': 'http://pbs.twimg.com/media/CcCukcTWEAARrUt.png', 'id': 702753482965651456, 'sizes': {'small': {'resize': 'fit', 'w': 506, 'h': 269}, 'thumb': {'resize': 'crop', 'w': 150, 'h': 150}, 'large': {'resize': 'fit', 'w': 506, 'h': 269}, 'medium': {'resize': 'fit', 'w': 506, 'h': 269}}, 'indices': [115, 138], 'url': 'https://t.co/BNBuwT4Ftd', 'expanded_url': 'http://twitter.com/aubrynathome/status/702753483565506560/photo/1', 'media_url_https': 'https://pbs.twimg.com/media/CcCukcTWEAARrUt.png', 'type': 'photo', 'id_str': '702753482965651456'}]}, 'coordinates': None, 'filter_level': 'low', 'text': "21 Questions for #Trump\nhttps://t.co/yfZU09HU3Z\n#SECPrimary #tcot #ccot #tlot\nWhy isn't #FoxNews asking questions? https://t.co/BNBuwT4Ftd", 'in_reply_to_user_id_str': None, 'source': '<a href="http://pullquote.com/" rel="nofollow">Pullquote: save and share quotes</a>', 'in_reply_to_status_id': None, 'in_reply_to_user_id': None, 'favorite_count': 0, 'id': 702753483565506560, 'retweet_count': 2, 'user': {'protected': False, 'statuses_count': 54362, 'screen_name': 'aubrynathome', 'followers_count': 7314, 'profile_text_color': '663B12', 'following': None, 'profile_background_color': 'FFF04D', 'friends_count': 7194, 'notifications': None, 'follow_request_sent': None, 'is_translator': False, 'description': "Is 59:19 Standardbearer #ccot #tcot #PJNET #Israel #2A #1A #patriot #LEO #CruzCrew Trump supporters get #Instablocked I don't want 2 hear about him He's a fraud", 'location': 'Where the Forest Meets the Sea', 'listed_count': 191, 'default_profile_image': False, 'url': 'https://www.youtube.com/watch?v=rcUCLwWCihE', 'profile_background_image_url_https': 'https://pbs.twimg.com/profile_background_images/566510550880776192/2rN0zWxC.jpeg', 'profile_image_url_https': 'https://pbs.twimg.com/profile_images/699893900543025152/NkpoXYfz_normal.png', 'profile_image_url': 'http://pbs.twimg.com/profile_images/699893900543025152/NkpoXYfz_normal.png', 'id': 1964112182, 'time_zone': 'Pacific Time (US & Canada)', 'profile_sidebar_border_color': 'FFFFFF', 'profile_use_background_image': True, 'name': 'Aubryn #IAmChristian', 'default_profile': False, 'profile_link_color': '0099CC', 'id_str': '1964112182', 'verified': False, 'profile_background_image_url': 'http://pbs.twimg.com/profile_background_images/566510550880776192/2rN0zWxC.jpeg', 'profile_sidebar_fill_color': 'DAECF4', 'favourites_count': 16307, 'profile_background_tile': True, 'geo_enabled': False, 'created_at': 'Wed Oct 16 06:05:53 +0000 2013', 'profile_banner_url': 'https://pbs.twimg.com/profile_banners/1964112182/1423533169', 'contributors_enabled': False, 'utc_offset': -28800, 'lang': 'en'}, 'in_reply_to_status_id_str': None, 'id_str': '702753483565506560', 'in_reply_to_screen_name': None, 'possibly_sensitive': False, 'entities': {'urls': [{'url': 'https://t.co/yfZU09HU3Z', 'display_url': 'pllqt.it/rznbNe', 'expanded_url': 'http://pllqt.it/rznbNe', 'indices': [24, 47]}], 'symbols': [], 'hashtags': [{'text': 'Trump', 'indices': [17, 23]}, {'text': 'SECPrimary', 'indices': [48, 59]}, {'text': 'tcot', 'indices': [60, 65]}, {'text': 'ccot', 'indices': [66, 71]}, {'text': 'tlot', 'indices': [72, 77]}, {'text': 'FoxNews', 'indices': [88, 96]}], 'media': [{'display_url': 'pic.twitter.com/BNBuwT4Ftd', 'media_url': 'http://pbs.twimg.com/media/CcCukcTWEAARrUt.png', 'id': 702753482965651456, 'sizes': {'small': {'resize': 'fit', 'w': 506, 'h': 269}, 'thumb': {'resize': 'crop', 'w': 150, 'h': 150}, 'large': {'resize': 'fit', 'w': 506, 'h': 269}, 'medium': {'resize': 'fit', 'w': 506, 'h': 269}}, 'indices': [115, 138], 'url': 'https://t.co/BNBuwT4Ftd', 'expanded_url': 'http://twitter.com/aubrynathome/status/702753483565506560/photo/1', 'media_url_https': 'https://pbs.twimg.com/media/CcCukcTWEAARrUt.png', 'type': 'photo', 'id_str': '702753482965651456'}], 'user_mentions': []}, 'retweeted': False, 'created_at': 'Thu Feb 25 07:14:21 +0000 2016', 'contributors': None, 'is_quote_status': False, 'place': None, 'truncated': False, 'lang': 'en'}
+
+ *******************USER INFORMATION*******************
+		protected                                   :    False
+		statuses_count                              :    128434
+		screen_name                                 :    jCar89000
+		followers_count                             :    1536
+		profile_text_color                          :    000000
+		following                                   :    None
+		profile_background_color                    :    000000
+		friends_count                               :    7
+		notifications                               :    None
+		follow_request_sent                         :    None
+		is_translator                               :    False
+		description                                 :    **********None**********
+		location                                    :    None
+		listed_count                                :    220
+		default_profile_image                       :    False
+		url                                         :    None
+		profile_background_image_url_https          :    https://abs.twimg.com/images/themes/theme1/bg.png
+		profile_image_url_https                     :    https://pbs.twimg.com/profile_images/643205076891271169/mL9FK_gj_normal.jpg
+		profile_image_url                           :    http://pbs.twimg.com/profile_images/643205076891271169/mL9FK_gj_normal.jpg
+		id                                          :    3532804813
+		time_zone                                   :    None
+		profile_sidebar_border_color                :    000000
+		profile_use_background_image                :    False
+		name                                        :    Joe C
+		default_profile                             :    False
+		profile_link_color                          :    89C9FA
+		id_str                                      :    3532804813
+		verified                                    :    False
+		profile_background_image_url                :    http://abs.twimg.com/images/themes/theme1/bg.png
+		profile_sidebar_fill_color                  :    000000
+		favourites_count                            :    3
+		profile_background_tile                     :    False
+		geo_enabled                                 :    False
+		created_at                                  :    Sat Sep 12 01:36:25 +0000 2015
+		profile_banner_url                          :    https://pbs.twimg.com/profile_banners/3532804813/1442187029
+		contributors_enabled                        :    False
+		utc_offset                                  :    None
+		lang                                        :    en
+
+in_reply_to_status_id_str               :       None
+in_reply_to_screen_name                 :       None
+possibly_sensitive                      :       False
+
+
+*******************ENTITIES INFORMATION*******************
+		urls                    :    [{'url': 'https://t.co/yfZU09HU3Z', 'display_url': 'pllqt.it/rznbNe', 'expanded_url': 'http://pllqt.it/rznbNe', 'indices': [42, 65]}]
+		symbols                 :    []
+		hashtags                :    [{'text': 'Trump', 'indices': [35, 41]}, {'text': 'SECPrimary', 'indices': [66, 77]}, {'text': 'tcot', 'indices': [78, 83]}, {'text': 'ccot', 'indices': [84, 89]}, {'text': 'tlot', 'indices': [90, 95]}, {'text': 'FoxNews', 'indices': [106, 114]}]
+		media                   :    [{'id': 702753482965651456, 'indices': [139, 140], 'source_status_id': 702753483565506560, 'source_user_id_str': '1964112182', 'sizes': {'small': {'resize': 'fit', 'w': 506, 'h': 269}, 'thumb': {'resize': 'crop', 'w': 150, 'h': 150}, 'large': {'resize': 'fit', 'w': 506, 'h': 269}, 'medium': {'resize': 'fit', 'w': 506, 'h': 269}}, 'source_user_id': 1964112182, 'id_str': '702753482965651456', 'media_url': 'http://pbs.twimg.com/media/CcCukcTWEAARrUt.png', 'source_status_id_str': '702753483565506560', 'expanded_url': 'http://twitter.com/aubrynathome/status/702753483565506560/photo/1', 'display_url': 'pic.twitter.com/BNBuwT4Ftd', 'url': 'https://t.co/BNBuwT4Ftd', 'media_url_https': 'https://pbs.twimg.com/media/CcCukcTWEAARrUt.png', 'type': 'photo'}]
+		user_mentions           :    [{'id_str': '1964112182', 'screen_name': 'aubrynathome', 'id': 1964112182, 'indices': [3, 16], 'name': 'Aubryn #IAmChristian'}]
+
+retweeted                               :       False
+created_at                              :       Thu Feb 25 07:15:46 +0000 2016
+timestamp_ms                            :       1456384546086
+contributors                            :       None
+is_quote_status                         :       False
+place                                   :       None
+truncated                               :       False
+lang                                    :       ENGLISH
+

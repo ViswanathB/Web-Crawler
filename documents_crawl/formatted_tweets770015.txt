@@ -1,0 +1,76 @@
+Tweet ID                                     :702753836243488768
+geo                                     :       None
+favorited                               :       False
+coordinates                             :       None
+filter_level                            :       low
+		*************TEXT*************
+Why Did @HillaryClinton Team Remove This Peaceful #BLM Protester Out Of Her Event? @jokerscool @laughingcat2016 https://t.co/0t0lz7CHY3
+
+in_reply_to_user_id_str                 :       None
+source                                  :       <a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>
+in_reply_to_status_id                   :       None
+in_reply_to_user_id                     :       None
+favorite_count                          :       0
+retweet_count                           :       0
+
+ *******************USER INFORMATION*******************
+		protected                                   :    False
+		statuses_count                              :    100918
+		screen_name                                 :    IUNewsTalk
+		followers_count                             :    2924
+		profile_text_color                          :    3EFF00
+		following                                   :    None
+		profile_background_color                    :    000000
+		friends_count                               :    1409
+		notifications                               :    None
+		follow_request_sent                         :    None
+		is_translator                               :    False
+		description                                 :    **********Voice of Progress Podcast | 3.0 M Listens since '10 | MBA | News One Best Urban Politics Blog '13| info@iunewstalk.com |#TalkingPolitics
+https://t.co/8xGVBEZyXm**********
+		location                                    :    A2-Michigan #GoBlue!
+		listed_count                                :    99
+		default_profile_image                       :    False
+		url                                         :    http://rojsnews.com
+		profile_background_image_url_https          :    https://pbs.twimg.com/profile_background_images/499086370011222016/U_CCG20S.jpeg
+		profile_image_url_https                     :    https://pbs.twimg.com/profile_images/673765796405907456/NKdW_kvJ_normal.jpg
+		profile_image_url                           :    http://pbs.twimg.com/profile_images/673765796405907456/NKdW_kvJ_normal.jpg
+		id                                          :    15347644
+		time_zone                                   :    Eastern Time (US & Canada)
+		profile_sidebar_border_color                :    3E4AFF
+		profile_use_background_image                :    False
+		name                                        :    IU News & Talk
+		default_profile                             :    False
+		profile_link_color                          :    8B4513
+		id_str                                      :    15347644
+		verified                                    :    False
+		profile_background_image_url                :    http://pbs.twimg.com/profile_background_images/499086370011222016/U_CCG20S.jpeg
+		profile_sidebar_fill_color                  :    635E5F
+		favourites_count                            :    5162
+		profile_background_tile                     :    False
+		geo_enabled                                 :    False
+		created_at                                  :    Mon Jul 07 23:15:46 +0000 2008
+		profile_banner_url                          :    https://pbs.twimg.com/profile_banners/15347644/1427672906
+		contributors_enabled                        :    False
+		utc_offset                                  :    -18000
+		lang                                        :    en
+
+in_reply_to_status_id_str               :       None
+in_reply_to_screen_name                 :       None
+possibly_sensitive                      :       False
+
+
+*******************ENTITIES INFORMATION*******************
+		urls                    :    [{'url': 'https://t.co/0t0lz7CHY3', 'display_url': 'youtu.be/LqLfvQfuvsA', 'expanded_url': 'https://youtu.be/LqLfvQfuvsA', 'indices': [112, 135]}]
+		symbols                 :    []
+		hashtags                :    [{'text': 'BLM', 'indices': [50, 54]}]
+		user_mentions           :    [{'id_str': '1339835893', 'screen_name': 'HillaryClinton', 'id': 1339835893, 'indices': [8, 23], 'name': 'Hillary Clinton'}, {'id_str': '24076619', 'screen_name': 'jokerscool', 'id': 24076619, 'indices': [83, 94], 'name': 'Hammer'}, {'id_str': '4709866640', 'screen_name': 'laughingcat2016', 'id': 4709866640, 'indices': [95, 111], 'name': 'Carol Leonard'}]
+
+retweeted                               :       False
+created_at                              :       Thu Feb 25 07:15:45 +0000 2016
+timestamp_ms                            :       1456384545752
+contributors                            :       None
+is_quote_status                         :       False
+place                                   :       None
+truncated                               :       False
+lang                                    :       ENGLISH
+

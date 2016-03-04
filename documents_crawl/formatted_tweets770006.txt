@@ -1,0 +1,75 @@
+Tweet ID                                     :702753828718837760
+geo                                     :       None
+favorited                               :       False
+coordinates                             :       None
+filter_level                            :       low
+		*************TEXT*************
+#NP "Survival" by @Eminem #1 #MOTIVATION #Top10 https://t.co/EhYPXZDglh
+
+in_reply_to_user_id_str                 :       None
+source                                  :       <a href="http://twitter.com/download/android" rel="nofollow">Twitter for Android</a>
+in_reply_to_status_id                   :       None
+in_reply_to_user_id                     :       None
+favorite_count                          :       0
+retweet_count                           :       0
+
+ *******************USER INFORMATION*******************
+		protected                                   :    False
+		statuses_count                              :    1251
+		screen_name                                 :    AccelTakeOver
+		followers_count                             :    176
+		profile_text_color                          :    333333
+		following                                   :    None
+		profile_background_color                    :    C0DEED
+		friends_count                               :    264
+		notifications                               :    None
+		follow_request_sent                         :    None
+		is_translator                               :    False
+		description                                 :    **********None**********
+		location                                    :    None
+		listed_count                                :    12
+		default_profile_image                       :    False
+		url                                         :    None
+		profile_background_image_url_https          :    https://abs.twimg.com/images/themes/theme1/bg.png
+		profile_image_url_https                     :    https://pbs.twimg.com/profile_images/479029455818461184/l8f56yzQ_normal.jpeg
+		profile_image_url                           :    http://pbs.twimg.com/profile_images/479029455818461184/l8f56yzQ_normal.jpeg
+		id                                          :    2573650902
+		time_zone                                   :    None
+		profile_sidebar_border_color                :    C0DEED
+		profile_use_background_image                :    True
+		name                                        :    TheTakeOverRadioShow
+		default_profile                             :    True
+		profile_link_color                          :    0084B4
+		id_str                                      :    2573650902
+		verified                                    :    False
+		profile_background_image_url                :    http://abs.twimg.com/images/themes/theme1/bg.png
+		profile_sidebar_fill_color                  :    DDEEF6
+		favourites_count                            :    99
+		profile_background_tile                     :    False
+		geo_enabled                                 :    False
+		created_at                                  :    Tue Jun 17 22:28:59 +0000 2014
+		profile_banner_url                          :    https://pbs.twimg.com/profile_banners/2573650902/1415224984
+		contributors_enabled                        :    False
+		utc_offset                                  :    None
+		lang                                        :    en
+
+in_reply_to_status_id_str               :       None
+in_reply_to_screen_name                 :       None
+possibly_sensitive                      :       False
+
+
+*******************ENTITIES INFORMATION*******************
+		urls                    :    [{'url': 'https://t.co/EhYPXZDglh', 'display_url': 'AcceleratedRadio.net', 'expanded_url': 'http://AcceleratedRadio.net', 'indices': [48, 71]}]
+		symbols                 :    []
+		hashtags                :    [{'text': 'NP', 'indices': [0, 3]}, {'text': 'MOTIVATION', 'indices': [29, 40]}, {'text': 'Top10', 'indices': [41, 47]}]
+		user_mentions           :    [{'id_str': '22940219', 'screen_name': 'Eminem', 'id': 22940219, 'indices': [18, 25], 'name': 'Marshall Mathers'}]
+
+retweeted                               :       False
+created_at                              :       Thu Feb 25 07:15:43 +0000 2016
+timestamp_ms                            :       1456384543958
+contributors                            :       None
+is_quote_status                         :       False
+place                                   :       None
+truncated                               :       False
+lang                                    :       ENGLISH
+

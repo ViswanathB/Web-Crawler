@@ -1,0 +1,75 @@
+Tweet ID                                     :702753835391946753
+geo                                     :       None
+favorited                               :       False
+coordinates                             :       None
+filter_level                            :       low
+		*************TEXT*************
+@HillaryClinton You'll day anything to be elected https://t.co/tod4Ifp6Js
+
+in_reply_to_user_id_str                 :       1339835893
+source                                  :       <a href="http://twitter.com/download/iphone" rel="nofollow">Twitter for iPhone</a>
+in_reply_to_status_id                   :       None
+in_reply_to_user_id                     :       1339835893
+favorite_count                          :       0
+retweet_count                           :       0
+
+ *******************USER INFORMATION*******************
+		protected                                   :    False
+		statuses_count                              :    58
+		screen_name                                 :    michaelwisby
+		followers_count                             :    60
+		profile_text_color                          :    000000
+		following                                   :    None
+		profile_background_color                    :    131516
+		friends_count                               :    188
+		notifications                               :    None
+		follow_request_sent                         :    None
+		is_translator                               :    False
+		description                                 :    **********Professional British IT guy. Lover of all things WordPress!**********
+		location                                    :    Virginia Beach, VA
+		listed_count                                :    1
+		default_profile_image                       :    False
+		url                                         :    http://mikewisby.com
+		profile_background_image_url_https          :    https://abs.twimg.com/images/themes/theme14/bg.gif
+		profile_image_url_https                     :    https://pbs.twimg.com/profile_images/686196808897396737/wQFrBKf7_normal.jpg
+		profile_image_url                           :    http://pbs.twimg.com/profile_images/686196808897396737/wQFrBKf7_normal.jpg
+		id                                          :    2582366465
+		time_zone                                   :    Eastern Time (US & Canada)
+		profile_sidebar_border_color                :    000000
+		profile_use_background_image                :    True
+		name                                        :    Mike Wisby
+		default_profile                             :    False
+		profile_link_color                          :    DD2E44
+		id_str                                      :    2582366465
+		verified                                    :    False
+		profile_background_image_url                :    http://abs.twimg.com/images/themes/theme14/bg.gif
+		profile_sidebar_fill_color                  :    000000
+		favourites_count                            :    20
+		profile_background_tile                     :    True
+		geo_enabled                                 :    False
+		created_at                                  :    Wed Jun 04 13:07:32 +0000 2014
+		profile_banner_url                          :    https://pbs.twimg.com/profile_banners/2582366465/1452436302
+		contributors_enabled                        :    False
+		utc_offset                                  :    -18000
+		lang                                        :    en
+
+in_reply_to_status_id_str               :       None
+in_reply_to_screen_name                 :       HillaryClinton
+possibly_sensitive                      :       False
+
+
+*******************ENTITIES INFORMATION*******************
+		urls                    :    [{'url': 'https://t.co/tod4Ifp6Js', 'display_url': 'youtu.be/-dY77j6uBHI', 'expanded_url': 'http://youtu.be/-dY77j6uBHI', 'indices': [50, 73]}]
+		symbols                 :    []
+		hashtags                :    []
+		user_mentions           :    [{'id_str': '1339835893', 'screen_name': 'HillaryClinton', 'id': 1339835893, 'indices': [0, 15], 'name': 'Hillary Clinton'}]
+
+retweeted                               :       False
+created_at                              :       Thu Feb 25 07:15:45 +0000 2016
+timestamp_ms                            :       1456384545549
+contributors                            :       None
+is_quote_status                         :       False
+place                                   :       None
+truncated                               :       False
+lang                                    :       ENGLISH
+
